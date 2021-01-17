@@ -5,3 +5,4 @@ han = Hannanum()
 print(han.analyze(text))
 print(han.morphs(text))
 print(han.nouns(text))
+#aaa
