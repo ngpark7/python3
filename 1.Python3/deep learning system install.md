@@ -1,10 +1,11 @@
 # anaconda library 설정 (텐서플로우)
-1. 시작 -> anaconda prompt
-2. conda create -n deep python=3.7 #
-3. y 선택
-4. conda activate deep
-5. pip install tensorflow==2.0
-6. PyCharm 실행
+
+## 1. 시작 -> anaconda prompt
+## 2. conda create -n deep python=3.7 #
+## 3. y 선택
+## 4. conda activate deep
+## 5. pip install tensorflow==2.0
+## 6. PyCharm 실행
  1) New Project
  2) Project ~~~
  3) Exsiting Interpreter
