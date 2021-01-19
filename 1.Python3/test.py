@@ -1,4 +1,3 @@
-#파이썬 테스트
 from typing import List
 
 # print(1)
